@@ -20,7 +20,7 @@
     "url": "https://github.com/navillus-bv/demo-astro-netlify-cms/issues"
   },
   "devDependencies": {
-    "astro": "^0.20.12",
+    "astro": "^0.18.13",
     "luxon": "^1.27.0",
     "slugify": "^1.5.3"
   }
