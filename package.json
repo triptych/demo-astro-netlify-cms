@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A boilerplate for building a fast static website with the Astro and Netlify CMS.",
   "scripts": {
-    "start": "astro dev",
+    "dev": "astro dev",
     "build": "astro build"
   },
   "repository": {
