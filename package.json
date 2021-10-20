@@ -19,9 +19,8 @@
   "bugs": {
     "url": "https://github.com/navillus-bv/demo-astro-netlify-cms/issues"
   },
-  "homepage": "https://github.com/navillus-bv/demo-astro-netlify-cms",
   "devDependencies": {
-    "astro": "latest",
+    "astro": "^0.20.12",
     "luxon": "^1.27.0",
     "slugify": "^1.5.3"
   }
