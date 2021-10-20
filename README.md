@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01c7b4cb-936b-4e54-835c-bfc00401f4e0/deploy-status)](https://app.netlify.com/sites/demo-astro-netlify-cms/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49c01383-ac4c-4d7c-9cf4-87bd87923fc3/deploy-status)](https://app.netlify.com/sites/keen-brahmagupta-166a17/deploys)
 
 # Astro Netlify Boilerplate
 
